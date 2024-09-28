@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+scikit-learn
+boto3
+seaborn
+matplotlib
+openpyxl
+joblib
+shap
+time
+random
+os
+warnings
